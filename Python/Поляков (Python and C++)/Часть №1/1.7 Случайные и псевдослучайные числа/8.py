@@ -1,0 +1,18 @@
+from graph import *
+from random import randint
+penColor(randint(0, 255), randint(0, 255), randint(0, 255))
+brushColor(randint(0, 255), randint(0, 255), randint(0, 255))
+circle(randint(50, 400), randint(50, 400), randint(10, 50))
+penColor(randint(0, 255), randint(0, 255), randint(0, 255))
+brushColor(randint(0, 255), randint(0, 255), randint(0, 255))
+circle(randint(50, 400), randint(50, 400), randint(10, 50))
+penColor(randint(0, 255), randint(0, 255), randint(0, 255))
+brushColor(randint(0, 255), randint(0, 255), randint(0, 255))
+circle(randint(50, 400), randint(50, 400), randint(10, 50))
+penColor(randint(0, 255), randint(0, 255), randint(0, 255))
+brushColor(randint(0, 255), randint(0, 255), randint(0, 255))
+circle(randint(50, 400), randint(50, 400), randint(10, 50))
+penColor(randint(0, 255), randint(0, 255), randint(0, 255))
+brushColor(randint(0, 255), randint(0, 255), randint(0, 255))
+circle(randint(50, 400), randint(50, 400), randint(10, 50))
+run()

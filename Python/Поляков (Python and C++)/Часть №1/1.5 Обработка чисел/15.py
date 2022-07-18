@@ -1,0 +1,14 @@
+a = 26
+b = 6
+print("а) c = ", a%b+b)
+print("б) c = ", a//b+b)
+print("в) b = ", a//b)
+print("   c = ", a//b)
+print("г) b = ", a//b+b)
+print("   c = ", a%b+a)
+print("д) b = ", a%b+4)
+print("   c = ", a%b+1)
+print("е) b = ", a//b)
+print("   c = ", a%(b+1))
+print("ж) b = ", a%b)
+print("   c = ", a//(b+1))
